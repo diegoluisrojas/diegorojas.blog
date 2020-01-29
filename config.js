@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://diegorojas.blog',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Diego Rojas',
+  subtitle: 'Software Engineer, Fintech Geek, World Explorer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Diego Rojas',
+    photo: '/diego-profile.jpg',
+    bio: 'Software Engineer, Fintech Geek, World Explorer',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'diegoluis.rojas@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'diegoluisr',
+      github: 'diegoluisrojas',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'diegolrojas',
+      instagram: 'diegoluisr',
       line: '',
       gitlab: '',
       weibo: '',
